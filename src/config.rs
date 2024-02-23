@@ -10,7 +10,7 @@ const ENV_VAR_NAME: &str = "INDEXER_CONFIG_PATH";
 pub const SERVER_ADDR: &str = "127.0.0.1";
 pub const SERVER_PORT: u16 = 30303;
 
-pub const TENDERMINT_ADDR: &str = "http://49.13.10.11:26657";
+pub const TENDERMINT_ADDR: &str = "https://rpc-1.namada.n1stake.com/";
 
 pub const JAEGER_HOST: &str = "localhost";
 pub const JAEGER_PORT: u16 = 6831;
