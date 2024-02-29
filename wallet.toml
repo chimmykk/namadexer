@@ -1,0 +1,78 @@
+[view_keys]
+
+[spend_keys]
+
+[payment_addrs]
+
+[secret_keys]
+faucet-1 = "unencrypted:009420596fc0e4463a4808ee47590da05f1c829edf66387a52b0e86fa514497016"
+koireng = "encrypted:a4bc33e7969a7f8a7626dfccce97df336b4524e5f706a24670d03716b62ebefa383d08626521f0dd419ca4c0f5d07d290be1cdd743f148e45bfb9e61c0fa13261>
+koirengs = "encrypted:deb13bdc4e0236bda71c724c5d21ecdc0fdfef21aa7172fcc3800ac7d64922743ad27552fbbaa610d83f89202c88840b14e970f70edf3bfc2b0757fbd2a7a311>
+namada-1-consensus-key = "unencrypted:00f5a8997b78005599b13045a1b6cd5c467fa3d6612ad785f36ec1c9cd6c529063"
+namada-1-tendermint-node-key = "unencrypted:0072284f81fcefa16c3ec0ca6a505c4ce25663a5f935e865dbe22d05ddca6d4495"
+namada-1-wallet = "unencrypted:003cd66ffb86ff0c8379f858d8ee7d0295060d933160640e602b8a61baea9107c9"
+relayer = "unencrypted:00b510ea56c2babee58175fb08ba84fd33baa3b94223cd271190d3f5e6c8592d88"
+steward-1 = "unencrypted:00b1e81183ade5ea238f372774943fde4a0248163bdda6b0682b1efde2860e517c"
+
+[public_keys]
+faucet-1 = "ED25519_PK_PREFIXtpknam1qza8ammt8uxzg9ln04jengu3dxa20nq5j9lvfvkd3fsvd996gsf6g0xa9t7"
+koireng = "ED25519_PK_PREFIXtpknam1qrl0hahnzjsuyruld7ck328fwsrtxz0zq4juqk9sxsvqm3mscnp0z2l4lmt"
+koirengs = "ED25519_PK_PREFIXtpknam1qzt0p288aqjz0u2t3n8vm5kk2d4ua0hr26h3mmyn8e9hzdhcztfvzedvgrg"
+namada-1-consensus-key = "ED25519_PK_PREFIXtpknam1qzkatc533hn9rw78g0c5lyfmlkuaf9rflcwaeew8g43nw320vdzscewpyl9"
+namada-1-tendermint-node-key = "ED25519_PK_PREFIXtpknam1qq9aad4j8sex8auc2c4kws75wv99ek8t2k5ewrgh9nkwyvt0x69ezhygs85"
+namada-1-wallet = "ED25519_PK_PREFIXtpknam1qql4n7lrvrerly7tcfferjchup7pq9y4s67rqm9thgcxkff0769vjq2gh04"
+relayer = "ED25519_PK_PREFIXtpknam1qzwk7ffw4yzvvr84qrkwc3t44dxm3tzt5x00yjclgne5xyu2fl9vwj3vppe"
+steward-1 = "ED25519_PK_PREFIXtpknam1qqvg2zsl8w79p5slp96lreuppratsfcjjgejvh6hrhf84v07k2vzwrcqa0p"
+
+
+[derivation_paths]
+faucet-1 = "m/44'/877'/0'/0'/0'"
+koireng = "m/44'/877'/0'/0'/0'"
+koirengs = "m/44'/877'/0'/0'/0'"
+namada-1-wallet = "m/44'/877'/0'/0'/0'"
+relayer = "m/44'/877'/0'/0'/0'"
+steward-1 = "m/44'/877'/0'/0'/0'"
+
+[addresses]
+apfel = "tnam1qy3s38608aegaare0hjurqcc3h6u9ax4yv8whf2f"
+btc = "tnam1q90hdmwl9jhfp43e7l3qx974h3xc2wj8gqajkth7"
+dot = "tnam1qyu9js2w2sshpud75vmy2nvumt3utjqkdsu7zsse"
+eth = "tnam1qxth6cayv2uqttcle53qwx4hamg024vm7qulntwh"
+ethbridge = "tnam1quqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqfgdmms"
+ethbridgepool = "tnam1pqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqu35hpf"
+faucet-1 = "tnam1qqzg94lv0reuadxglt79ygrwdsg2huuv0gz9gvz9"
+governance = "tnam1q5qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqrw33g6"
+ibc = "tnam1qcqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqvtr7x4"
+kartoffel = "tnam1q8apl6pq6w5vy7m5vlxxwpz5qr5h9t9gautdz082"
+koireng = "tnam1qpc5fx6z948w0nycqmfdp4ccmz978e9h6v2e9z9s"
+koirengs = "tnam1qr02e6kevsttfqgncjmgzfy4ld6snve2fyuhqrfw"
+masp = "tnam1pcqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqzmefah"
+nam = "tnam1q87wtaqqtlwkw927gaff34hgda36huk0kgry692a"
+namada-1-consensus-key = "tnam1qrsjn9l82rsz6qr8qhcr4lw5h0ktucj3rs3axg6n"
+namada-1-tendermint-node-key = "tnam1qpj2wkmvt8jwmpu5deeqc23m2t7uav5frq7wn7ty"
+namada-1-wallet = "tnam1qqcazanke0j3680wg4ulhafuqd0m4nnt4c90y0dc"
+pos = "tnam1qgqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqc8j2fp"
+publicgoodfundings = "tnam1pgqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqkhgajr"
+relayer = "tnam1qp332gxraxx46tqg5ns5wwleznv8l5w9lqdcx99z"
+
+
+
+[pkhs]
+0482D7EC78F3CEB4C8FAFC52206E6C10ABF38C7A = "faucet-1"
+31D17676CBE51D1DEE4579FBF53C035FBACE6BAE = "namada-1-wallet"
+631520C3E98D5D2C08A4E1473BF914D87FD1C5F8 = "relayer"
+64A75B6C59E4ED87946E720C2A3B52FDCEB28918 = "namada-1-tendermint-node-key"
+71449B422D4EE7CC9806D2D0D718D88BE3E4B7D3 = "koireng"
+B069C491B9F95784C20306B3A94A0E996643F7A3 = "steward-1"
+DEACEAD96416B48113C4B6812495FB7509B32A49 = "koirengs"
+E12997E750E02D006705F03AFDD4BBECBE62511C = "namada-1-consensus-key"
+
+[validator_data]
+address = "tnam1q8ykxpp5kjw7vzyxnq2ed495pzngyqkg057343v9"
+
+[validator_data.keys]
+protocol_keypair = "ED25519_SK_PREFIX00b18a9e8aab4768ddb6cbc508e67c38446e8ea817208f2fdfdc82642a1e418759"
+eth_bridge_keypair = "SECP256K1_SK_PREFIX013a18654d65db3df6350f728a3ac98d14c32541a423e9f45216471bc062fa5743"
+
+[address_vp_types]
+token = ["tnam1qy2g6cvle0jcnmsd5sradgd8qfzffd9npvt9arvl", "tnam1q90hdmwl9jhfp43e7l3qx974h3xc2wj8gqajkth7", "tnam1q8apl6pq6w5vy7m5vlxxwpz5qr5h9t9gautdz"]
